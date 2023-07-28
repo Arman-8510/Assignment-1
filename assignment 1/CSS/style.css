@@ -1,0 +1,91 @@
+/* CSS styling file*/
+
+/* h1*/
+
+h1{
+    width: 100%;
+    height: auto;
+    margin-bottom: 100px;
+    margin-left: 320px;
+    font-size: 42px;
+    color: #e0d42d;
+    font-family: 'Montserrat', sans-serif;
+}
+
+body {
+    background-image: url(/img/batman_artwork_4k.jpg);
+    color: hsl(53, 12%, 87%);
+    background-size: cover;
+    padding-right: 100px;
+    margin: auto;
+    text-align: center;
+
+}
+
+/* section*/
+
+section{
+    width: 80%;
+    height: auto;
+    margin: auto;
+    text-align: center;
+}
+/* h4*/
+ section > h4{
+
+    width: 100%;
+    height: auto;
+    margin-top: 20px;
+    padding-top: 80px;
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+
+}
+/*h2*/
+
+section > h2{
+    width: 100%;
+    height: auto;
+    margin-top: 20px;
+    padding-top: 50px;
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+
+}
+/* p*/
+
+section > p{
+    font-size: 50px;
+    font-family: 'Roboto', sans-serif;
+    padding-bottom: 450px;
+    margin-bottom: 190px;
+}
+
+section > .watch-button {
+    background-color: #160a0e;
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 4px;
+    font-size: 16px;
+    cursor: pointer;
+  }
+/* footer*/
+
+footer {
+    
+    color: #f3eb79;
+    text-align: center;
+    margin-top: 20px;
+    padding-top: 10px;  
+  }
+
+  /* p1*/
+
+footer > p1 {
+    font-size: 50px;
+    font-family: 'Roboto', sans-serif;
+    padding-bottom: 20px;
+    margin-bottom: 70px;
+  }
+    
